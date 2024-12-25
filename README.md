@@ -39,15 +39,6 @@ Alternatively, you can host the project using a static server or deploy it using
 3. Keep flipping cards until all pairs are matched.
 4. Your score is calculated based on the number of moves and time taken.
 
-## Screenshots
-### Game Start
-![Game Start Screenshot](path-to-screenshot)
-
-### During Gameplay
-![Gameplay Screenshot](path-to-screenshot)
-
-### Game Completion
-![Game Completion Screenshot](path-to-screenshot)
 
 ## Folder Structure
 ```
